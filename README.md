@@ -1,5 +1,5 @@
 # To-Do-List
-# To Do List using nodeJS/expressJS/EJS
+# Using nodeJS/expressJS/EJS
 
 # How to Run: 
 install body-parser, node, and express
